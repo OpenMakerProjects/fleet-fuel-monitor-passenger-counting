@@ -1,0 +1,21 @@
+{
+  "id": 737,
+  "title": "Fleet Fuel Monitor Passenger Counting",
+  "repository_slug": "fleet-fuel-monitor-passenger-counting",
+  "category": "Smart Vehicles",
+  "platform": "Raspberry Pi",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "BLE",
+  "components": [
+    "buzzer",
+    "camera",
+    "OLED display"
+  ],
+  "scope": "Build a smart vehicles prototype that uses buzzer, camera, OLED display to count boarding and exiting passengers. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Passenger Counting demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
